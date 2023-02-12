@@ -17,3 +17,7 @@ header {
     text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
+
+li {
+    margin: 10px 0;
+}
