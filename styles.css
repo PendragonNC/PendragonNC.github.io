@@ -1,6 +1,13 @@
+head {
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    color: rgb(35, 202, 35);
+    background: rgb(18, 22, 25);
+    font-family: 'Roboto Mono', monospace;
+}
 body {
     margin: 0;
-    padding: 50px;
     color: rgb(35, 202, 35);
     background: rgb(18, 22, 25);
     text-align: center;
